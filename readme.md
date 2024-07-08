@@ -21,4 +21,5 @@ For more information about LGS puan hesaplama and how to use this package, pleas
 **License**
 
 This package is licensed under the MIT License.
+
 # lgs-puan-sesaplama
