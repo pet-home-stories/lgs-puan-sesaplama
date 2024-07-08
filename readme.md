@@ -4,7 +4,7 @@ This package is designed to simplify the calculation of LGS puan hesaplama, a cr
 
 **How to Use**
 
-To use this package, simply call the `calculateLgsPuanHesaplama` function with the grades of the four subjects as arguments. The function will return the calculated puan hesaplama score.
+To use this package, simply call the `calculateLgsPuanHesaplama` function with the grades of the four subjects as arguments. The function will return the calculated puan hesaplama score. Enjoy!!!.
 
 **Example**
 
